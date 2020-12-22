@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.3 (swiftlang-1200.0.29.2 clang-1200.0.30.1)"
+options: "b1ebfc373c398b415242d8291843f518"
+build_time: [1608627101, 62237000]
+inputs:
+  "/Users/apple/Desktop/TestFireBase/TestFireBase/AppDelegate.swift": [1607934921, 615773719]
+  "/Users/apple/Desktop/TestFireBase/TestFireBase/ViewController/Info/InfoViewController.swift": [1608564573, 529680938]
+  "/Users/apple/Desktop/TestFireBase/TestFireBase/Helper/GetData.swift": [1608564042, 680282685]
+  "/Users/apple/Desktop/TestFireBase/TestFireBase/ViewController/Map/MapViewController.swift": [1608567631, 213770646]
+  "/Users/apple/Desktop/TestFireBase/TestFireBase/ViewController/TabHome/TabHomeViewController.swift": [1608565162, 533662377]
+  "/Users/apple/Desktop/TestFireBase/TestFireBase/ViewController/List/ListTableViewCell.swift": [1608561926, 201607003]
+  "/Users/apple/Desktop/TestFireBase/TestFireBase/ViewController/List/ListViewController.swift": [1608564763, 507799152]
+  "/Users/apple/Desktop/TestFireBase/TestFireBase/SceneDelegate.swift": [1607933223, 537461958]
+  "/Users/apple/Desktop/TestFireBase/TestFireBase/ViewController/TabHome/FlashViewController.swift": [1608564042, 626805033]

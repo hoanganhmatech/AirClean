@@ -1,0 +1,959 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "InfoViewController"
+provides-nominal:
+- "12TestFireBase18InfoViewControllerC"
+provides-member:
+- ["12TestFireBase18InfoViewControllerC", ""]
+provides-dynamic-lookup:
+- "address"
+- "addressPin"
+- "clickBack"
+- "database"
+- "getDataFireBase"
+- "humi"
+- "humiPin"
+- "index"
+- "nameLocation"
+- "namePin"
+- "quality"
+- "qualityAir"
+- "temp"
+- "tempPin"
+- "update"
+- "viewDidAppear"
+- "viewDidLoad"
+depends-top-level:
+- "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- !private "CastingPrecedence"
+- "Database"
+- "Double"
+- "Float"
+- "FloatLiteralType"
+- "InfoViewController"
+- "IntegerLiteralType"
+- "NSNumber"
+- "String"
+- "StringLiteralType"
+- !private "Timer"
+- "UILabel"
+- "UIViewController"
+- !private "address"
+- !private "addressPin"
+- !private "database"
+- !private "dismiss"
+- !private "getDataFireBase"
+- !private "humi"
+- !private "humiPin"
+- !private "index"
+- !private "nameLocation"
+- !private "namePin"
+- !private "quality"
+- !private "qualityAir"
+- !private "temp"
+- !private "tempPin"
+- !private "update"
+depends-member:
+- !private ["s18AdditiveArithmeticP", ""]
+- !private ["s18AdditiveArithmeticP", "init"]
+- !private ["SB", "init"]
+- !private ["So15CALayerDelegateP", ""]
+- !private ["So15CALayerDelegateP", "text"]
+- ["s7CVarArgP", "Database"]
+- !private ["s7CVarArgP", "Double"]
+- !private ["s7CVarArgP", "Timer"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "address"]
+- !private ["s7CVarArgP", "addressPin"]
+- !private ["s7CVarArgP", "child"]
+- !private ["s7CVarArgP", "clickBack"]
+- ["s7CVarArgP", "database"]
+- !private ["s7CVarArgP", "dismiss"]
+- !private ["s7CVarArgP", "getDataFireBase"]
+- !private ["s7CVarArgP", "humi"]
+- !private ["s7CVarArgP", "humiPin"]
+- !private ["s7CVarArgP", "index"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "nameLocation"]
+- !private ["s7CVarArgP", "namePin"]
+- !private ["s7CVarArgP", "observeSingleEvent"]
+- !private ["s7CVarArgP", "quality"]
+- !private ["s7CVarArgP", "qualityAir"]
+- ["s7CVarArgP", "reference"]
+- !private ["s7CVarArgP", "scheduledTimer"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s7CVarArgP", "temp"]
+- !private ["s7CVarArgP", "tempPin"]
+- !private ["s7CVarArgP", "text"]
+- !private ["s7CVarArgP", "update"]
+- !private ["s7CVarArgP", "value"]
+- !private ["s7CVarArgP", "viewDidAppear"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["Sl", "subscript"]
+- !private ["SL", ""]
+- !private ["SL", "init"]
+- ["s28CustomDebugStringConvertibleP", "Database"]
+- !private ["s28CustomDebugStringConvertibleP", "Double"]
+- !private ["s28CustomDebugStringConvertibleP", "Timer"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "address"]
+- !private ["s28CustomDebugStringConvertibleP", "addressPin"]
+- !private ["s28CustomDebugStringConvertibleP", "child"]
+- !private ["s28CustomDebugStringConvertibleP", "clickBack"]
+- ["s28CustomDebugStringConvertibleP", "database"]
+- !private ["s28CustomDebugStringConvertibleP", "dismiss"]
+- !private ["s28CustomDebugStringConvertibleP", "getDataFireBase"]
+- !private ["s28CustomDebugStringConvertibleP", "humi"]
+- !private ["s28CustomDebugStringConvertibleP", "humiPin"]
+- !private ["s28CustomDebugStringConvertibleP", "index"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "nameLocation"]
+- !private ["s28CustomDebugStringConvertibleP", "namePin"]
+- !private ["s28CustomDebugStringConvertibleP", "observeSingleEvent"]
+- !private ["s28CustomDebugStringConvertibleP", "quality"]
+- !private ["s28CustomDebugStringConvertibleP", "qualityAir"]
+- ["s28CustomDebugStringConvertibleP", "reference"]
+- !private ["s28CustomDebugStringConvertibleP", "scheduledTimer"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "temp"]
+- !private ["s28CustomDebugStringConvertibleP", "tempPin"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s28CustomDebugStringConvertibleP", "update"]
+- !private ["s28CustomDebugStringConvertibleP", "value"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidAppear"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s17CustomReflectableP", "text"]
+- ["s23CustomStringConvertibleP", "Database"]
+- !private ["s23CustomStringConvertibleP", "Double"]
+- !private ["s23CustomStringConvertibleP", "Timer"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "address"]
+- !private ["s23CustomStringConvertibleP", "addressPin"]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["s23CustomStringConvertibleP", "child"]
+- !private ["s23CustomStringConvertibleP", "clickBack"]
+- ["s23CustomStringConvertibleP", "database"]
+- !private ["s23CustomStringConvertibleP", "dismiss"]
+- !private ["s23CustomStringConvertibleP", "getDataFireBase"]
+- !private ["s23CustomStringConvertibleP", "humi"]
+- !private ["s23CustomStringConvertibleP", "humiPin"]
+- !private ["s23CustomStringConvertibleP", "index"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "nameLocation"]
+- !private ["s23CustomStringConvertibleP", "namePin"]
+- !private ["s23CustomStringConvertibleP", "observeSingleEvent"]
+- !private ["s23CustomStringConvertibleP", "quality"]
+- !private ["s23CustomStringConvertibleP", "qualityAir"]
+- ["s23CustomStringConvertibleP", "reference"]
+- !private ["s23CustomStringConvertibleP", "scheduledTimer"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "temp"]
+- !private ["s23CustomStringConvertibleP", "tempPin"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["s23CustomStringConvertibleP", "update"]
+- !private ["s23CustomStringConvertibleP", "value"]
+- !private ["s23CustomStringConvertibleP", "viewDidAppear"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["So16FIRDataEventTypeV", "value"]
+- !private ["So15FIRDataSnapshotC", "value"]
+- ["So11FIRDatabaseC", "database"]
+- ["So11FIRDatabaseC", "reference"]
+- ["So16FIRDatabaseQueryC", ""]
+- !private ["So16FIRDatabaseQueryC", "child"]
+- !private ["So16FIRDatabaseQueryC", "observeSingleEvent"]
+- !private ["So16FIRDatabaseQueryC", "observeSingleEventOfType"]
+- !private ["So20FIRDatabaseReferenceC", "child"]
+- !private ["So20FIRDatabaseReferenceC", "observeSingleEvent"]
+- !private ["Se", "init"]
+- !private ["Se", "subscript"]
+- !private ["Se", "text"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- !private ["SD", "subscript"]
+- !private ["Sd", "init"]
+- !private ["SE", "init"]
+- !private ["SE", "subscript"]
+- !private ["SE", "text"]
+- ["SQ", "Database"]
+- !private ["SQ", "Double"]
+- !private ["SQ", "Timer"]
+- ["SQ", ""]
+- !private ["SQ", "address"]
+- !private ["SQ", "addressPin"]
+- !private ["SQ", "child"]
+- !private ["SQ", "clickBack"]
+- ["SQ", "database"]
+- !private ["SQ", "dismiss"]
+- !private ["SQ", "getDataFireBase"]
+- !private ["SQ", "humi"]
+- !private ["SQ", "humiPin"]
+- !private ["SQ", "index"]
+- !private ["SQ", "init"]
+- !private ["SQ", "nameLocation"]
+- !private ["SQ", "namePin"]
+- !private ["SQ", "observeSingleEvent"]
+- !private ["SQ", "quality"]
+- !private ["SQ", "qualityAir"]
+- ["SQ", "reference"]
+- !private ["SQ", "scheduledTimer"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "temp"]
+- !private ["SQ", "tempPin"]
+- !private ["SQ", "text"]
+- !private ["SQ", "update"]
+- !private ["SQ", "value"]
+- !private ["SQ", "viewDidAppear"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["s25ExpressibleByFloatLiteralP", ""]
+- !private ["s25ExpressibleByFloatLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", ""]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "text"]
+- !private ["s32ExpressibleByStringInterpolationP", "StringInterpolation"]
+- !private ["s32ExpressibleByStringInterpolationP", "init"]
+- !private ["SF", ""]
+- !private ["SF", "init"]
+- ["SH", "Database"]
+- !private ["SH", "Double"]
+- !private ["SH", "Timer"]
+- ["SH", ""]
+- !private ["SH", "address"]
+- !private ["SH", "addressPin"]
+- !private ["SH", "child"]
+- !private ["SH", "clickBack"]
+- ["SH", "database"]
+- !private ["SH", "dismiss"]
+- !private ["SH", "getDataFireBase"]
+- !private ["SH", "humi"]
+- !private ["SH", "humiPin"]
+- !private ["SH", "index"]
+- !private ["SH", "init"]
+- !private ["SH", "nameLocation"]
+- !private ["SH", "namePin"]
+- !private ["SH", "observeSingleEvent"]
+- !private ["SH", "quality"]
+- !private ["SH", "qualityAir"]
+- ["SH", "reference"]
+- !private ["SH", "scheduledTimer"]
+- !private ["SH", "subscript"]
+- !private ["SH", "temp"]
+- !private ["SH", "tempPin"]
+- !private ["SH", "text"]
+- !private ["SH", "update"]
+- !private ["SH", "value"]
+- !private ["SH", "viewDidAppear"]
+- !private ["SH", "viewDidLoad"]
+- ["12TestFireBase18InfoViewControllerC", "Bool"]
+- ["12TestFireBase18InfoViewControllerC", "Database"]
+- !private ["12TestFireBase18InfoViewControllerC", "Double"]
+- !private ["12TestFireBase18InfoViewControllerC", "Float"]
+- !private ["12TestFireBase18InfoViewControllerC", "NSNumber"]
+- !private ["12TestFireBase18InfoViewControllerC", "String"]
+- !private ["12TestFireBase18InfoViewControllerC", "Timer"]
+- ["12TestFireBase18InfoViewControllerC", "UILabel"]
+- ["12TestFireBase18InfoViewControllerC", ""]
+- ["12TestFireBase18InfoViewControllerC", "address"]
+- ["12TestFireBase18InfoViewControllerC", "addressPin"]
+- ["12TestFireBase18InfoViewControllerC", "clickBack"]
+- ["12TestFireBase18InfoViewControllerC", "database"]
+- ["12TestFireBase18InfoViewControllerC", "deinit"]
+- !private ["12TestFireBase18InfoViewControllerC", "dismiss"]
+- ["12TestFireBase18InfoViewControllerC", "getDataFireBase"]
+- ["12TestFireBase18InfoViewControllerC", "humi"]
+- ["12TestFireBase18InfoViewControllerC", "humiPin"]
+- ["12TestFireBase18InfoViewControllerC", "index"]
+- ["12TestFireBase18InfoViewControllerC", "init"]
+- ["12TestFireBase18InfoViewControllerC", "nameLocation"]
+- ["12TestFireBase18InfoViewControllerC", "namePin"]
+- ["12TestFireBase18InfoViewControllerC", "quality"]
+- ["12TestFireBase18InfoViewControllerC", "qualityAir"]
+- ["12TestFireBase18InfoViewControllerC", "temp"]
+- ["12TestFireBase18InfoViewControllerC", "tempPin"]
+- ["12TestFireBase18InfoViewControllerC", "update"]
+- ["12TestFireBase18InfoViewControllerC", "viewDidAppear"]
+- ["12TestFireBase18InfoViewControllerC", "viewDidLoad"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- ["So8NSCodingP", "Bool"]
+- ["So8NSCodingP", "Database"]
+- !private ["So8NSCodingP", "Double"]
+- !private ["So8NSCodingP", "Float"]
+- !private ["So8NSCodingP", "NSNumber"]
+- !private ["So8NSCodingP", "String"]
+- !private ["So8NSCodingP", "Timer"]
+- ["So8NSCodingP", "UILabel"]
+- ["So8NSCodingP", ""]
+- ["So8NSCodingP", "address"]
+- ["So8NSCodingP", "addressPin"]
+- ["So8NSCodingP", "clickBack"]
+- ["So8NSCodingP", "database"]
+- !private ["So8NSCodingP", "dismiss"]
+- ["So8NSCodingP", "getDataFireBase"]
+- ["So8NSCodingP", "humi"]
+- ["So8NSCodingP", "humiPin"]
+- ["So8NSCodingP", "index"]
+- ["So8NSCodingP", "init"]
+- ["So8NSCodingP", "nameLocation"]
+- ["So8NSCodingP", "namePin"]
+- ["So8NSCodingP", "quality"]
+- ["So8NSCodingP", "qualityAir"]
+- ["So8NSCodingP", "temp"]
+- ["So8NSCodingP", "tempPin"]
+- !private ["So8NSCodingP", "text"]
+- ["So8NSCodingP", "update"]
+- ["So8NSCodingP", "viewDidAppear"]
+- ["So8NSCodingP", "viewDidLoad"]
+- ["So26NSExtensionRequestHandlingP", "Bool"]
+- ["So26NSExtensionRequestHandlingP", "Database"]
+- !private ["So26NSExtensionRequestHandlingP", "Double"]
+- !private ["So26NSExtensionRequestHandlingP", "Float"]
+- !private ["So26NSExtensionRequestHandlingP", "NSNumber"]
+- !private ["So26NSExtensionRequestHandlingP", "String"]
+- !private ["So26NSExtensionRequestHandlingP", "Timer"]
+- ["So26NSExtensionRequestHandlingP", "UILabel"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- ["So26NSExtensionRequestHandlingP", "address"]
+- ["So26NSExtensionRequestHandlingP", "addressPin"]
+- ["So26NSExtensionRequestHandlingP", "clickBack"]
+- ["So26NSExtensionRequestHandlingP", "database"]
+- !private ["So26NSExtensionRequestHandlingP", "dismiss"]
+- ["So26NSExtensionRequestHandlingP", "getDataFireBase"]
+- ["So26NSExtensionRequestHandlingP", "humi"]
+- ["So26NSExtensionRequestHandlingP", "humiPin"]
+- ["So26NSExtensionRequestHandlingP", "index"]
+- ["So26NSExtensionRequestHandlingP", "init"]
+- ["So26NSExtensionRequestHandlingP", "nameLocation"]
+- ["So26NSExtensionRequestHandlingP", "namePin"]
+- ["So26NSExtensionRequestHandlingP", "quality"]
+- ["So26NSExtensionRequestHandlingP", "qualityAir"]
+- ["So26NSExtensionRequestHandlingP", "temp"]
+- ["So26NSExtensionRequestHandlingP", "tempPin"]
+- ["So26NSExtensionRequestHandlingP", "update"]
+- ["So26NSExtensionRequestHandlingP", "viewDidAppear"]
+- ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So8NSObjectC", "Bool"]
+- ["So8NSObjectC", "Database"]
+- !private ["So8NSObjectC", "Double"]
+- !private ["So8NSObjectC", "Float"]
+- !private ["So8NSObjectC", "NSNumber"]
+- !private ["So8NSObjectC", "String"]
+- !private ["So8NSObjectC", "Timer"]
+- ["So8NSObjectC", "UILabel"]
+- ["So8NSObjectC", ""]
+- ["So8NSObjectC", "address"]
+- ["So8NSObjectC", "addressPin"]
+- !private ["So8NSObjectC", "child"]
+- ["So8NSObjectC", "clickBack"]
+- ["So8NSObjectC", "database"]
+- ["So8NSObjectC", "databaseForApp"]
+- ["So8NSObjectC", "databaseWithURL"]
+- !private ["So8NSObjectC", "dismiss"]
+- !private ["So8NSObjectC", "dismissViewControllerAnimated"]
+- ["So8NSObjectC", "getDataFireBase"]
+- ["So8NSObjectC", "humi"]
+- ["So8NSObjectC", "humiPin"]
+- ["So8NSObjectC", "index"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "nameLocation"]
+- ["So8NSObjectC", "namePin"]
+- !private ["So8NSObjectC", "observeSingleEvent"]
+- !private ["So8NSObjectC", "observeSingleEventOfType"]
+- ["So8NSObjectC", "quality"]
+- ["So8NSObjectC", "qualityAir"]
+- ["So8NSObjectC", "reference"]
+- ["So8NSObjectC", "referenceFromURL"]
+- ["So8NSObjectC", "referenceWithPath"]
+- !private ["So8NSObjectC", "scheduledTimer"]
+- !private ["So8NSObjectC", "scheduledTimerWithTimeInterval"]
+- ["So8NSObjectC", "temp"]
+- ["So8NSObjectC", "tempPin"]
+- !private ["So8NSObjectC", "text"]
+- ["So8NSObjectC", "update"]
+- !private ["So8NSObjectC", "value"]
+- ["So8NSObjectC", "viewDidAppear"]
+- ["So8NSObjectC", "viewDidLoad"]
+- ["So8NSObjectP", "Database"]
+- !private ["So8NSObjectP", "Double"]
+- !private ["So8NSObjectP", "Float"]
+- !private ["So8NSObjectP", "NSNumber"]
+- !private ["So8NSObjectP", "String"]
+- !private ["So8NSObjectP", "Timer"]
+- ["So8NSObjectP", "UILabel"]
+- ["So8NSObjectP", ""]
+- ["So8NSObjectP", "address"]
+- ["So8NSObjectP", "addressPin"]
+- !private ["So8NSObjectP", "child"]
+- ["So8NSObjectP", "clickBack"]
+- ["So8NSObjectP", "database"]
+- ["So8NSObjectP", "databaseForApp"]
+- ["So8NSObjectP", "databaseWithURL"]
+- !private ["So8NSObjectP", "dismiss"]
+- !private ["So8NSObjectP", "dismissViewControllerAnimated"]
+- ["So8NSObjectP", "getDataFireBase"]
+- ["So8NSObjectP", "humi"]
+- ["So8NSObjectP", "humiPin"]
+- ["So8NSObjectP", "index"]
+- ["So8NSObjectP", "init"]
+- ["So8NSObjectP", "nameLocation"]
+- ["So8NSObjectP", "namePin"]
+- !private ["So8NSObjectP", "observeSingleEvent"]
+- !private ["So8NSObjectP", "observeSingleEventOfType"]
+- ["So8NSObjectP", "quality"]
+- ["So8NSObjectP", "qualityAir"]
+- ["So8NSObjectP", "reference"]
+- ["So8NSObjectP", "referenceFromURL"]
+- ["So8NSObjectP", "referenceWithPath"]
+- !private ["So8NSObjectP", "scheduledTimer"]
+- !private ["So8NSObjectP", "scheduledTimerWithTimeInterval"]
+- ["So8NSObjectP", "temp"]
+- ["So8NSObjectP", "tempPin"]
+- !private ["So8NSObjectP", "text"]
+- ["So8NSObjectP", "update"]
+- !private ["So8NSObjectP", "value"]
+- ["So8NSObjectP", "viewDidAppear"]
+- ["So8NSObjectP", "viewDidLoad"]
+- !private ["Sj", ""]
+- !private ["Sj", "init"]
+- !private ["Sq", "text"]
+- !private ["SY", "value"]
+- !private ["s10SIMDScalarP", "init"]
+- !private ["ST", ""]
+- !private ["ST", "subscript"]
+- !private ["s13SignedNumericP", ""]
+- !private ["s13SignedNumericP", "init"]
+- !private ["Sx", ""]
+- !private ["Sx", "init"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["s27StringInterpolationProtocolP", "init"]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So7NSTimerC", "scheduledTimer"]
+- !private ["So29UIAccessibilityIdentificationP", ""]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So12UIAppearanceP", ""]
+- !private ["So12UIAppearanceP", "text"]
+- ["So21UIAppearanceContainerP", "Bool"]
+- ["So21UIAppearanceContainerP", "Database"]
+- !private ["So21UIAppearanceContainerP", "Double"]
+- !private ["So21UIAppearanceContainerP", "Float"]
+- !private ["So21UIAppearanceContainerP", "NSNumber"]
+- !private ["So21UIAppearanceContainerP", "String"]
+- !private ["So21UIAppearanceContainerP", "Timer"]
+- ["So21UIAppearanceContainerP", "UILabel"]
+- ["So21UIAppearanceContainerP", ""]
+- ["So21UIAppearanceContainerP", "address"]
+- ["So21UIAppearanceContainerP", "addressPin"]
+- ["So21UIAppearanceContainerP", "clickBack"]
+- ["So21UIAppearanceContainerP", "database"]
+- !private ["So21UIAppearanceContainerP", "dismiss"]
+- ["So21UIAppearanceContainerP", "getDataFireBase"]
+- ["So21UIAppearanceContainerP", "humi"]
+- ["So21UIAppearanceContainerP", "humiPin"]
+- ["So21UIAppearanceContainerP", "index"]
+- ["So21UIAppearanceContainerP", "init"]
+- ["So21UIAppearanceContainerP", "nameLocation"]
+- ["So21UIAppearanceContainerP", "namePin"]
+- ["So21UIAppearanceContainerP", "quality"]
+- ["So21UIAppearanceContainerP", "qualityAir"]
+- ["So21UIAppearanceContainerP", "temp"]
+- ["So21UIAppearanceContainerP", "tempPin"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- ["So21UIAppearanceContainerP", "update"]
+- ["So21UIAppearanceContainerP", "viewDidAppear"]
+- ["So21UIAppearanceContainerP", "viewDidLoad"]
+- ["So18UIContentContainerP", "Bool"]
+- ["So18UIContentContainerP", "Database"]
+- !private ["So18UIContentContainerP", "Double"]
+- !private ["So18UIContentContainerP", "Float"]
+- !private ["So18UIContentContainerP", "NSNumber"]
+- !private ["So18UIContentContainerP", "String"]
+- !private ["So18UIContentContainerP", "Timer"]
+- ["So18UIContentContainerP", "UILabel"]
+- ["So18UIContentContainerP", ""]
+- ["So18UIContentContainerP", "address"]
+- ["So18UIContentContainerP", "addressPin"]
+- ["So18UIContentContainerP", "clickBack"]
+- ["So18UIContentContainerP", "database"]
+- !private ["So18UIContentContainerP", "dismiss"]
+- ["So18UIContentContainerP", "getDataFireBase"]
+- ["So18UIContentContainerP", "humi"]
+- ["So18UIContentContainerP", "humiPin"]
+- ["So18UIContentContainerP", "index"]
+- ["So18UIContentContainerP", "init"]
+- ["So18UIContentContainerP", "nameLocation"]
+- ["So18UIContentContainerP", "namePin"]
+- ["So18UIContentContainerP", "quality"]
+- ["So18UIContentContainerP", "qualityAir"]
+- ["So18UIContentContainerP", "temp"]
+- ["So18UIContentContainerP", "tempPin"]
+- ["So18UIContentContainerP", "update"]
+- ["So18UIContentContainerP", "viewDidAppear"]
+- ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So17UICoordinateSpaceP", ""]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So13UIDynamicItemP", ""]
+- !private ["So13UIDynamicItemP", "text"]
+- ["So18UIFocusEnvironmentP", "Bool"]
+- ["So18UIFocusEnvironmentP", "Database"]
+- !private ["So18UIFocusEnvironmentP", "Double"]
+- !private ["So18UIFocusEnvironmentP", "Float"]
+- !private ["So18UIFocusEnvironmentP", "NSNumber"]
+- !private ["So18UIFocusEnvironmentP", "String"]
+- !private ["So18UIFocusEnvironmentP", "Timer"]
+- ["So18UIFocusEnvironmentP", "UILabel"]
+- ["So18UIFocusEnvironmentP", ""]
+- ["So18UIFocusEnvironmentP", "address"]
+- ["So18UIFocusEnvironmentP", "addressPin"]
+- ["So18UIFocusEnvironmentP", "clickBack"]
+- ["So18UIFocusEnvironmentP", "database"]
+- !private ["So18UIFocusEnvironmentP", "dismiss"]
+- ["So18UIFocusEnvironmentP", "getDataFireBase"]
+- ["So18UIFocusEnvironmentP", "humi"]
+- ["So18UIFocusEnvironmentP", "humiPin"]
+- ["So18UIFocusEnvironmentP", "index"]
+- ["So18UIFocusEnvironmentP", "init"]
+- ["So18UIFocusEnvironmentP", "nameLocation"]
+- ["So18UIFocusEnvironmentP", "namePin"]
+- ["So18UIFocusEnvironmentP", "quality"]
+- ["So18UIFocusEnvironmentP", "qualityAir"]
+- ["So18UIFocusEnvironmentP", "temp"]
+- ["So18UIFocusEnvironmentP", "tempPin"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- ["So18UIFocusEnvironmentP", "update"]
+- ["So18UIFocusEnvironmentP", "viewDidAppear"]
+- ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So11UIFocusItemP", ""]
+- !private ["So11UIFocusItemP", "text"]
+- !private ["So20UIFocusItemContainerP", ""]
+- !private ["So20UIFocusItemContainerP", "text"]
+- !private ["So7UILabelC", "text"]
+- !private ["So24UILargeContentViewerItemP", ""]
+- !private ["So24UILargeContentViewerItemP", "text"]
+- ["So30UIPasteConfigurationSupportingP", "Database"]
+- !private ["So30UIPasteConfigurationSupportingP", "Double"]
+- !private ["So30UIPasteConfigurationSupportingP", "Float"]
+- !private ["So30UIPasteConfigurationSupportingP", "NSNumber"]
+- !private ["So30UIPasteConfigurationSupportingP", "String"]
+- !private ["So30UIPasteConfigurationSupportingP", "Timer"]
+- ["So30UIPasteConfigurationSupportingP", "UILabel"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- ["So30UIPasteConfigurationSupportingP", "address"]
+- ["So30UIPasteConfigurationSupportingP", "addressPin"]
+- ["So30UIPasteConfigurationSupportingP", "clickBack"]
+- ["So30UIPasteConfigurationSupportingP", "database"]
+- !private ["So30UIPasteConfigurationSupportingP", "dismiss"]
+- !private ["So30UIPasteConfigurationSupportingP", "dismissViewControllerAnimated"]
+- ["So30UIPasteConfigurationSupportingP", "getDataFireBase"]
+- ["So30UIPasteConfigurationSupportingP", "humi"]
+- ["So30UIPasteConfigurationSupportingP", "humiPin"]
+- ["So30UIPasteConfigurationSupportingP", "index"]
+- ["So30UIPasteConfigurationSupportingP", "init"]
+- ["So30UIPasteConfigurationSupportingP", "nameLocation"]
+- ["So30UIPasteConfigurationSupportingP", "namePin"]
+- ["So30UIPasteConfigurationSupportingP", "quality"]
+- ["So30UIPasteConfigurationSupportingP", "qualityAir"]
+- ["So30UIPasteConfigurationSupportingP", "temp"]
+- ["So30UIPasteConfigurationSupportingP", "tempPin"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- ["So30UIPasteConfigurationSupportingP", "update"]
+- ["So30UIPasteConfigurationSupportingP", "viewDidAppear"]
+- ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So11UIResponderC", "Bool"]
+- ["So11UIResponderC", "Database"]
+- !private ["So11UIResponderC", "Double"]
+- !private ["So11UIResponderC", "Float"]
+- !private ["So11UIResponderC", "NSNumber"]
+- !private ["So11UIResponderC", "String"]
+- !private ["So11UIResponderC", "Timer"]
+- ["So11UIResponderC", "UILabel"]
+- ["So11UIResponderC", ""]
+- ["So11UIResponderC", "address"]
+- ["So11UIResponderC", "addressPin"]
+- ["So11UIResponderC", "clickBack"]
+- ["So11UIResponderC", "database"]
+- !private ["So11UIResponderC", "dismiss"]
+- !private ["So11UIResponderC", "dismissViewControllerAnimated"]
+- ["So11UIResponderC", "getDataFireBase"]
+- ["So11UIResponderC", "humi"]
+- ["So11UIResponderC", "humiPin"]
+- ["So11UIResponderC", "index"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "nameLocation"]
+- ["So11UIResponderC", "namePin"]
+- ["So11UIResponderC", "quality"]
+- ["So11UIResponderC", "qualityAir"]
+- ["So11UIResponderC", "temp"]
+- ["So11UIResponderC", "tempPin"]
+- !private ["So11UIResponderC", "text"]
+- ["So11UIResponderC", "update"]
+- ["So11UIResponderC", "viewDidAppear"]
+- ["So11UIResponderC", "viewDidLoad"]
+- ["So30UIResponderStandardEditActionsP", "Database"]
+- !private ["So30UIResponderStandardEditActionsP", "Double"]
+- !private ["So30UIResponderStandardEditActionsP", "Float"]
+- !private ["So30UIResponderStandardEditActionsP", "NSNumber"]
+- !private ["So30UIResponderStandardEditActionsP", "String"]
+- !private ["So30UIResponderStandardEditActionsP", "Timer"]
+- ["So30UIResponderStandardEditActionsP", "UILabel"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- ["So30UIResponderStandardEditActionsP", "address"]
+- ["So30UIResponderStandardEditActionsP", "addressPin"]
+- ["So30UIResponderStandardEditActionsP", "clickBack"]
+- ["So30UIResponderStandardEditActionsP", "database"]
+- !private ["So30UIResponderStandardEditActionsP", "dismiss"]
+- !private ["So30UIResponderStandardEditActionsP", "dismissViewControllerAnimated"]
+- ["So30UIResponderStandardEditActionsP", "getDataFireBase"]
+- ["So30UIResponderStandardEditActionsP", "humi"]
+- ["So30UIResponderStandardEditActionsP", "humiPin"]
+- ["So30UIResponderStandardEditActionsP", "index"]
+- ["So30UIResponderStandardEditActionsP", "init"]
+- ["So30UIResponderStandardEditActionsP", "nameLocation"]
+- ["So30UIResponderStandardEditActionsP", "namePin"]
+- ["So30UIResponderStandardEditActionsP", "quality"]
+- ["So30UIResponderStandardEditActionsP", "qualityAir"]
+- ["So30UIResponderStandardEditActionsP", "temp"]
+- ["So30UIResponderStandardEditActionsP", "tempPin"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- ["So30UIResponderStandardEditActionsP", "update"]
+- ["So30UIResponderStandardEditActionsP", "viewDidAppear"]
+- ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- ["So16UIStateRestoringP", "Bool"]
+- ["So16UIStateRestoringP", "Database"]
+- !private ["So16UIStateRestoringP", "Double"]
+- !private ["So16UIStateRestoringP", "Float"]
+- !private ["So16UIStateRestoringP", "NSNumber"]
+- !private ["So16UIStateRestoringP", "String"]
+- !private ["So16UIStateRestoringP", "Timer"]
+- ["So16UIStateRestoringP", "UILabel"]
+- ["So16UIStateRestoringP", ""]
+- ["So16UIStateRestoringP", "address"]
+- ["So16UIStateRestoringP", "addressPin"]
+- ["So16UIStateRestoringP", "clickBack"]
+- ["So16UIStateRestoringP", "database"]
+- !private ["So16UIStateRestoringP", "dismiss"]
+- ["So16UIStateRestoringP", "getDataFireBase"]
+- ["So16UIStateRestoringP", "humi"]
+- ["So16UIStateRestoringP", "humiPin"]
+- ["So16UIStateRestoringP", "index"]
+- ["So16UIStateRestoringP", "init"]
+- ["So16UIStateRestoringP", "nameLocation"]
+- ["So16UIStateRestoringP", "namePin"]
+- ["So16UIStateRestoringP", "quality"]
+- ["So16UIStateRestoringP", "qualityAir"]
+- ["So16UIStateRestoringP", "temp"]
+- ["So16UIStateRestoringP", "tempPin"]
+- ["So16UIStateRestoringP", "update"]
+- ["So16UIStateRestoringP", "viewDidAppear"]
+- ["So16UIStateRestoringP", "viewDidLoad"]
+- ["So18UITraitEnvironmentP", "Bool"]
+- ["So18UITraitEnvironmentP", "Database"]
+- !private ["So18UITraitEnvironmentP", "Double"]
+- !private ["So18UITraitEnvironmentP", "Float"]
+- !private ["So18UITraitEnvironmentP", "NSNumber"]
+- !private ["So18UITraitEnvironmentP", "String"]
+- !private ["So18UITraitEnvironmentP", "Timer"]
+- ["So18UITraitEnvironmentP", "UILabel"]
+- ["So18UITraitEnvironmentP", ""]
+- ["So18UITraitEnvironmentP", "address"]
+- ["So18UITraitEnvironmentP", "addressPin"]
+- ["So18UITraitEnvironmentP", "clickBack"]
+- ["So18UITraitEnvironmentP", "database"]
+- !private ["So18UITraitEnvironmentP", "dismiss"]
+- ["So18UITraitEnvironmentP", "getDataFireBase"]
+- ["So18UITraitEnvironmentP", "humi"]
+- ["So18UITraitEnvironmentP", "humiPin"]
+- ["So18UITraitEnvironmentP", "index"]
+- ["So18UITraitEnvironmentP", "init"]
+- ["So18UITraitEnvironmentP", "nameLocation"]
+- ["So18UITraitEnvironmentP", "namePin"]
+- ["So18UITraitEnvironmentP", "quality"]
+- ["So18UITraitEnvironmentP", "qualityAir"]
+- ["So18UITraitEnvironmentP", "temp"]
+- ["So18UITraitEnvironmentP", "tempPin"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- ["So18UITraitEnvironmentP", "update"]
+- ["So18UITraitEnvironmentP", "viewDidAppear"]
+- ["So18UITraitEnvironmentP", "viewDidLoad"]
+- ["So23UIUserActivityRestoringP", "Database"]
+- !private ["So23UIUserActivityRestoringP", "Double"]
+- !private ["So23UIUserActivityRestoringP", "Float"]
+- !private ["So23UIUserActivityRestoringP", "NSNumber"]
+- !private ["So23UIUserActivityRestoringP", "String"]
+- !private ["So23UIUserActivityRestoringP", "Timer"]
+- ["So23UIUserActivityRestoringP", "UILabel"]
+- ["So23UIUserActivityRestoringP", ""]
+- ["So23UIUserActivityRestoringP", "address"]
+- ["So23UIUserActivityRestoringP", "addressPin"]
+- ["So23UIUserActivityRestoringP", "clickBack"]
+- ["So23UIUserActivityRestoringP", "database"]
+- !private ["So23UIUserActivityRestoringP", "dismiss"]
+- !private ["So23UIUserActivityRestoringP", "dismissViewControllerAnimated"]
+- ["So23UIUserActivityRestoringP", "getDataFireBase"]
+- ["So23UIUserActivityRestoringP", "humi"]
+- ["So23UIUserActivityRestoringP", "humiPin"]
+- ["So23UIUserActivityRestoringP", "index"]
+- ["So23UIUserActivityRestoringP", "init"]
+- ["So23UIUserActivityRestoringP", "nameLocation"]
+- ["So23UIUserActivityRestoringP", "namePin"]
+- ["So23UIUserActivityRestoringP", "quality"]
+- ["So23UIUserActivityRestoringP", "qualityAir"]
+- ["So23UIUserActivityRestoringP", "temp"]
+- ["So23UIUserActivityRestoringP", "tempPin"]
+- !private ["So23UIUserActivityRestoringP", "text"]
+- ["So23UIUserActivityRestoringP", "update"]
+- ["So23UIUserActivityRestoringP", "viewDidAppear"]
+- ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- ["So6UIViewC", ""]
+- !private ["So6UIViewC", "text"]
+- ["So16UIViewControllerC", "Bool"]
+- ["So16UIViewControllerC", "Database"]
+- !private ["So16UIViewControllerC", "Double"]
+- !private ["So16UIViewControllerC", "Float"]
+- !private ["So16UIViewControllerC", "NSNumber"]
+- !private ["So16UIViewControllerC", "String"]
+- !private ["So16UIViewControllerC", "Timer"]
+- ["So16UIViewControllerC", "UILabel"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "address"]
+- ["So16UIViewControllerC", "addressPin"]
+- ["So16UIViewControllerC", "clickBack"]
+- ["So16UIViewControllerC", "database"]
+- !private ["So16UIViewControllerC", "dismiss"]
+- ["So16UIViewControllerC", "getDataFireBase"]
+- ["So16UIViewControllerC", "humi"]
+- ["So16UIViewControllerC", "humiPin"]
+- ["So16UIViewControllerC", "index"]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "nameLocation"]
+- ["So16UIViewControllerC", "namePin"]
+- ["So16UIViewControllerC", "quality"]
+- ["So16UIViewControllerC", "qualityAir"]
+- ["So16UIViewControllerC", "temp"]
+- ["So16UIViewControllerC", "tempPin"]
+- ["So16UIViewControllerC", "update"]
+- ["So16UIViewControllerC", "viewDidAppear"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- !private ["s15_CVarArgAlignedP", "init"]
+- !private ["s22_CVarArgPassedAsDoubleP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "init"]
+- ["s33_ExpressibleByBuiltinFloatLiteralP", "init"]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "Database"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Double"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Timer"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "address"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addressPin"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "child"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "clickBack"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "database"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dismiss"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "getDataFireBase"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "humi"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "humiPin"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "index"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "nameLocation"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "namePin"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "observeSingleEvent"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "quality"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "qualityAir"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "reference"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "scheduledTimer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "temp"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "tempPin"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "update"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "value"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidAppear"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "Database"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "Double"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "Timer"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "address"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "addressPin"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "child"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "clickBack"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "database"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "dismiss"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "getDataFireBase"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "humi"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "humiPin"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "index"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "nameLocation"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "namePin"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "observeSingleEvent"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "quality"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "qualityAir"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "reference"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "scheduledTimer"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "temp"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "tempPin"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "text"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "update"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "value"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewDidAppear"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "text"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "text"]
+depends-nominal:
+- !private "s18AdditiveArithmeticP"
+- !private "SB"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "So16FIRDataEventTypeV"
+- !private "So15FIRDataSnapshotC"
+- "So11FIRDatabaseC"
+- "So16FIRDatabaseQueryC"
+- !private "So20FIRDatabaseReferenceC"
+- !private "Se"
+- !private "s26DefaultStringInterpolationV"
+- !private "SD"
+- !private "Sd"
+- !private "SE"
+- "SQ"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "SF"
+- "SH"
+- "12TestFireBase18InfoViewControllerC"
+- !private "s25LosslessStringConvertibleP"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sj"
+- !private "Sq"
+- !private "SY"
+- !private "s10SIMDScalarP"
+- !private "ST"
+- !private "s13SignedNumericP"
+- !private "Sx"
+- !private "s27StringInterpolationProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So7NSTimerC"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So7UILabelC"
+- !private "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- "So16UIViewControllerC"
+- !private "s15_CVarArgAlignedP"
+- !private "s22_CVarArgPassedAsDoubleP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s33_ExpressibleByBuiltinFloatLiteralP"
+- "s35_ExpressibleByBuiltinIntegerLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreLocation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/MapKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/apple/Desktop/TestFireBase/build/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FirebaseCore-umbrella.h"
+- "/Users/apple/Desktop/TestFireBase/build/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FirebaseDatabase-umbrella.h"
+- "/Users/apple/Desktop/TestFireBase/build/Debug-iphonesimulator/FirebaseInstallations/FirebaseInstallations.framework/Headers/FirebaseInstallations-umbrella.h"
+- "/Users/apple/Desktop/TestFireBase/build/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRMutableData.h"
+- "/Users/apple/Desktop/TestFireBase/build/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRDatabaseReference.h"
+- "/Users/apple/Desktop/TestFireBase/build/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRDataEventType.h"
+- "/Users/apple/Desktop/TestFireBase/build/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FirebaseCore.h"
+- "/Users/apple/Desktop/TestFireBase/build/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRDatabase.h"
+- "/Users/apple/Desktop/TestFireBase/build/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FirebaseDatabase.h"
+- "/Users/apple/Desktop/TestFireBase/Pods/Firebase/CoreOnly/Sources/Firebase.h"
+- "/Users/apple/Desktop/TestFireBase/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics+AppDelegate.h"
+- "/Users/apple/Desktop/TestFireBase/build/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRServerValue.h"
+- "/Users/apple/Desktop/TestFireBase/build/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIRLoggerLevel.h"
+- "/Users/apple/Desktop/TestFireBase/build/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIRVersion.h"
+- "/Users/apple/Desktop/TestFireBase/build/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIRConfiguration.h"
+- "/Users/apple/Desktop/TestFireBase/build/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIRApp.h"
+- "/Users/apple/Desktop/TestFireBase/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics.h"
+- "/Users/apple/Desktop/TestFireBase/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FirebaseAnalytics.h"
+- "/Users/apple/Desktop/TestFireBase/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRParameterNames.h"
+- "/Users/apple/Desktop/TestFireBase/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIREventNames.h"
+- "/Users/apple/Desktop/TestFireBase/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRUserPropertyNames.h"
+- "/Users/apple/Desktop/TestFireBase/build/Debug-iphonesimulator/FirebaseInstallations/FirebaseInstallations.framework/Headers/FIRInstallations.h"
+- "/Users/apple/Desktop/TestFireBase/build/Debug-iphonesimulator/FirebaseInstallations/FirebaseInstallations.framework/Headers/FirebaseInstallations.h"
+- "/Users/apple/Desktop/TestFireBase/build/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIROptions.h"
+- "/Users/apple/Desktop/TestFireBase/build/Debug-iphonesimulator/FirebaseInstallations/FirebaseInstallations.framework/Headers/FIRInstallationsErrors.h"
+- "/Users/apple/Desktop/TestFireBase/build/Debug-iphonesimulator/FirebaseInstallations/FirebaseInstallations.framework/Headers/FIRInstallationsAuthTokenResult.h"
+- "/Users/apple/Desktop/TestFireBase/build/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRTransactionResult.h"
+- "/Users/apple/Desktop/TestFireBase/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics+Consent.h"
+- "/Users/apple/Desktop/TestFireBase/build/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRDataSnapshot.h"
+- "/Users/apple/Desktop/TestFireBase/build/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRDatabaseQuery.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Users/apple/Desktop/TestFireBase/Pods/Firebase/CoreOnly/Sources/module.modulemap"
+- "/Users/apple/Desktop/TestFireBase/build/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Modules/module.modulemap"
+- "/Users/apple/Desktop/TestFireBase/build/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Modules/module.modulemap"
+- "/Users/apple/Desktop/TestFireBase/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Modules/module.modulemap"
+- "/Users/apple/Desktop/TestFireBase/build/Debug-iphonesimulator/FirebaseInstallations/FirebaseInstallations.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "1aabdccfeeb3d0a280413a88a5b65095"

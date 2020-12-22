@@ -1,0 +1,583 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "FlashViewController"
+provides-nominal:
+- "12TestFireBase19FlashViewControllerC"
+provides-member:
+- ["12TestFireBase19FlashViewControllerC", ""]
+provides-dynamic-lookup:
+- "data"
+- "data2"
+- "data3"
+- "openTabHome"
+- "viewDidLoad"
+depends-top-level:
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- "CastingPrecedence"
+- "DispatchQueue"
+- "FlashViewController"
+- "FloatLiteralType"
+- !private "GetData"
+- "IntegerLiteralType"
+- "StringLiteralType"
+- "TabHomeViewController"
+- !private "UIStoryboard"
+- "UIViewController"
+- !private "data"
+- !private "data2"
+- !private "data3"
+- !private "present"
+- "print"
+depends-member:
+- ["SK", ""]
+- !private ["s7CVarArgP", "DispatchQueue"]
+- !private ["s7CVarArgP", "GetData"]
+- !private ["s7CVarArgP", "UIStoryboard"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "async"]
+- !private ["s7CVarArgP", "data"]
+- !private ["s7CVarArgP", "data2"]
+- !private ["s7CVarArgP", "data3"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "instantiateViewController"]
+- !private ["s7CVarArgP", "main"]
+- !private ["s7CVarArgP", "modalPresentationStyle"]
+- !private ["s7CVarArgP", "openTabHome"]
+- !private ["s7CVarArgP", "perform"]
+- !private ["s7CVarArgP", "present"]
+- !private ["s7CVarArgP", "print"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- ["Sl", ""]
+- ["SL", ""]
+- !private ["s28CustomDebugStringConvertibleP", "DispatchQueue"]
+- !private ["s28CustomDebugStringConvertibleP", "GetData"]
+- !private ["s28CustomDebugStringConvertibleP", "UIStoryboard"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "async"]
+- !private ["s28CustomDebugStringConvertibleP", "data"]
+- !private ["s28CustomDebugStringConvertibleP", "data2"]
+- !private ["s28CustomDebugStringConvertibleP", "data3"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "instantiateViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "main"]
+- !private ["s28CustomDebugStringConvertibleP", "modalPresentationStyle"]
+- !private ["s28CustomDebugStringConvertibleP", "openTabHome"]
+- !private ["s28CustomDebugStringConvertibleP", "perform"]
+- !private ["s28CustomDebugStringConvertibleP", "present"]
+- !private ["s28CustomDebugStringConvertibleP", "print"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s23CustomStringConvertibleP", "DispatchQueue"]
+- !private ["s23CustomStringConvertibleP", "GetData"]
+- !private ["s23CustomStringConvertibleP", "UIStoryboard"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["s23CustomStringConvertibleP", "async"]
+- !private ["s23CustomStringConvertibleP", "data"]
+- !private ["s23CustomStringConvertibleP", "data2"]
+- !private ["s23CustomStringConvertibleP", "data3"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "instantiateViewController"]
+- !private ["s23CustomStringConvertibleP", "main"]
+- !private ["s23CustomStringConvertibleP", "modalPresentationStyle"]
+- !private ["s23CustomStringConvertibleP", "openTabHome"]
+- !private ["s23CustomStringConvertibleP", "perform"]
+- !private ["s23CustomStringConvertibleP", "present"]
+- !private ["s23CustomStringConvertibleP", "print"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- ["So18OS_dispatch_objectC", ""]
+- !private ["So18OS_dispatch_objectC", "async"]
+- !private ["So18OS_dispatch_objectC", "init"]
+- !private ["So18OS_dispatch_objectC", "main"]
+- !private ["So18OS_dispatch_objectC", "sync"]
+- !private ["So17OS_dispatch_queueC", "async"]
+- !private ["So17OS_dispatch_queueC", "main"]
+- !private ["SQ", "DispatchQueue"]
+- !private ["SQ", "GetData"]
+- !private ["SQ", "UIStoryboard"]
+- ["SQ", ""]
+- !private ["SQ", "async"]
+- !private ["SQ", "data"]
+- !private ["SQ", "data2"]
+- !private ["SQ", "data3"]
+- !private ["SQ", "fullScreen"]
+- !private ["SQ", "init"]
+- !private ["SQ", "instantiateViewController"]
+- !private ["SQ", "main"]
+- !private ["SQ", "modalPresentationStyle"]
+- !private ["SQ", "openTabHome"]
+- !private ["SQ", "perform"]
+- !private ["SQ", "present"]
+- !private ["SQ", "print"]
+- !private ["SQ", "viewDidLoad"]
+- ["s25ExpressibleByArrayLiteralP", "init"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", ""]
+- !private ["s32ExpressibleByStringInterpolationP", "StringInterpolation"]
+- ["s32ExpressibleByStringInterpolationP", ""]
+- !private ["s32ExpressibleByStringInterpolationP", "init"]
+- ["s26ExpressibleByStringLiteralP", ""]
+- ["s33ExpressibleByUnicodeScalarLiteralP", ""]
+- !private ["12TestFireBase19FlashViewControllerC", "DispatchQueue"]
+- !private ["12TestFireBase19FlashViewControllerC", "GetData"]
+- !private ["12TestFireBase19FlashViewControllerC", "TabHomeViewController"]
+- !private ["12TestFireBase19FlashViewControllerC", "UIStoryboard"]
+- ["12TestFireBase19FlashViewControllerC", ""]
+- ["12TestFireBase19FlashViewControllerC", "data"]
+- ["12TestFireBase19FlashViewControllerC", "data2"]
+- ["12TestFireBase19FlashViewControllerC", "data3"]
+- ["12TestFireBase19FlashViewControllerC", "deinit"]
+- ["12TestFireBase19FlashViewControllerC", "init"]
+- ["12TestFireBase19FlashViewControllerC", "openTabHome"]
+- !private ["12TestFireBase19FlashViewControllerC", "perform"]
+- !private ["12TestFireBase19FlashViewControllerC", "present"]
+- !private ["12TestFireBase19FlashViewControllerC", "print"]
+- ["12TestFireBase19FlashViewControllerC", "viewDidLoad"]
+- !private ["12TestFireBase7GetDataC", "getData"]
+- !private ["12TestFireBase7GetDataC", "getData2"]
+- !private ["12TestFireBase7GetDataC", "getData3"]
+- !private ["12TestFireBase7GetDataC", "shared"]
+- !private ["SH", "DispatchQueue"]
+- !private ["SH", "GetData"]
+- !private ["SH", "UIStoryboard"]
+- ["SH", ""]
+- !private ["SH", "async"]
+- !private ["SH", "data"]
+- !private ["SH", "data2"]
+- !private ["SH", "data3"]
+- !private ["SH", "fullScreen"]
+- !private ["SH", "init"]
+- !private ["SH", "instantiateViewController"]
+- !private ["SH", "main"]
+- !private ["SH", "modalPresentationStyle"]
+- !private ["SH", "openTabHome"]
+- !private ["SH", "perform"]
+- !private ["SH", "present"]
+- !private ["SH", "print"]
+- !private ["SH", "viewDidLoad"]
+- ["s25LosslessStringConvertibleP", ""]
+- !private ["So8NSCodingP", "DispatchQueue"]
+- !private ["So8NSCodingP", "GetData"]
+- !private ["So8NSCodingP", "TabHomeViewController"]
+- !private ["So8NSCodingP", "UIStoryboard"]
+- ["So8NSCodingP", ""]
+- ["So8NSCodingP", "data"]
+- ["So8NSCodingP", "data2"]
+- ["So8NSCodingP", "data3"]
+- ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "modalPresentationStyle"]
+- ["So8NSCodingP", "openTabHome"]
+- !private ["So8NSCodingP", "perform"]
+- !private ["So8NSCodingP", "present"]
+- !private ["So8NSCodingP", "print"]
+- ["So8NSCodingP", "viewDidLoad"]
+- !private ["So26NSExtensionRequestHandlingP", "DispatchQueue"]
+- !private ["So26NSExtensionRequestHandlingP", "GetData"]
+- !private ["So26NSExtensionRequestHandlingP", "TabHomeViewController"]
+- !private ["So26NSExtensionRequestHandlingP", "UIStoryboard"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- ["So26NSExtensionRequestHandlingP", "data"]
+- ["So26NSExtensionRequestHandlingP", "data2"]
+- ["So26NSExtensionRequestHandlingP", "data3"]
+- ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "modalPresentationStyle"]
+- ["So26NSExtensionRequestHandlingP", "openTabHome"]
+- !private ["So26NSExtensionRequestHandlingP", "perform"]
+- !private ["So26NSExtensionRequestHandlingP", "present"]
+- !private ["So26NSExtensionRequestHandlingP", "print"]
+- ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- !private ["So8NSObjectC", "DispatchQueue"]
+- !private ["So8NSObjectC", "GetData"]
+- !private ["So8NSObjectC", "TabHomeViewController"]
+- !private ["So8NSObjectC", "UIStoryboard"]
+- ["So8NSObjectC", ""]
+- !private ["So8NSObjectC", "activate"]
+- !private ["So8NSObjectC", "async"]
+- ["So8NSObjectC", "data"]
+- ["So8NSObjectC", "data2"]
+- ["So8NSObjectC", "data3"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "instantiateViewController"]
+- !private ["So8NSObjectC", "instantiateViewControllerWithIdentifier"]
+- !private ["So8NSObjectC", "main"]
+- !private ["So8NSObjectC", "modalPresentationStyle"]
+- ["So8NSObjectC", "openTabHome"]
+- !private ["So8NSObjectC", "perform"]
+- !private ["So8NSObjectC", "present"]
+- !private ["So8NSObjectC", "presentViewController"]
+- !private ["So8NSObjectC", "print"]
+- !private ["So8NSObjectC", "resume"]
+- !private ["So8NSObjectC", "setTarget"]
+- !private ["So8NSObjectC", "storyboardWithName"]
+- !private ["So8NSObjectC", "suspend"]
+- !private ["So8NSObjectC", "sync"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So8NSObjectP", "DispatchQueue"]
+- !private ["So8NSObjectP", "GetData"]
+- !private ["So8NSObjectP", "TabHomeViewController"]
+- !private ["So8NSObjectP", "UIStoryboard"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "activate"]
+- !private ["So8NSObjectP", "async"]
+- ["So8NSObjectP", "data"]
+- ["So8NSObjectP", "data2"]
+- ["So8NSObjectP", "data3"]
+- ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "instantiateViewController"]
+- !private ["So8NSObjectP", "instantiateViewControllerWithIdentifier"]
+- !private ["So8NSObjectP", "main"]
+- !private ["So8NSObjectP", "modalPresentationStyle"]
+- ["So8NSObjectP", "openTabHome"]
+- !private ["So8NSObjectP", "perform"]
+- !private ["So8NSObjectP", "present"]
+- !private ["So8NSObjectP", "presentViewController"]
+- !private ["So8NSObjectP", "print"]
+- !private ["So8NSObjectP", "resume"]
+- !private ["So8NSObjectP", "setTarget"]
+- !private ["So8NSObjectP", "storyboardWithName"]
+- !private ["So8NSObjectP", "suspend"]
+- !private ["So8NSObjectP", "sync"]
+- ["So8NSObjectP", "viewDidLoad"]
+- ["So9OS_objectC", ""]
+- !private ["So9OS_objectC", "activate"]
+- !private ["So9OS_objectC", "async"]
+- !private ["So9OS_objectC", "init"]
+- !private ["So9OS_objectC", "main"]
+- !private ["So9OS_objectC", "resume"]
+- !private ["So9OS_objectC", "setTarget"]
+- !private ["So9OS_objectC", "suspend"]
+- !private ["So9OS_objectC", "sync"]
+- !private ["SY", "fullScreen"]
+- !private ["7Combine9SchedulerP", "async"]
+- !private ["7Combine9SchedulerP", "main"]
+- ["ST", ""]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["s27StringInterpolationProtocolP", "init"]
+- !private ["12TestFireBase21TabHomeViewControllerC", "data"]
+- !private ["12TestFireBase21TabHomeViewControllerC", "data2"]
+- !private ["12TestFireBase21TabHomeViewControllerC", "data3"]
+- !private ["12TestFireBase21TabHomeViewControllerC", "modalPresentationStyle"]
+- ["s16TextOutputStreamP", ""]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+- ["s20TextOutputStreamableP", ""]
+- !private ["So21UIAppearanceContainerP", "DispatchQueue"]
+- !private ["So21UIAppearanceContainerP", "GetData"]
+- !private ["So21UIAppearanceContainerP", "TabHomeViewController"]
+- !private ["So21UIAppearanceContainerP", "UIStoryboard"]
+- ["So21UIAppearanceContainerP", ""]
+- ["So21UIAppearanceContainerP", "data"]
+- ["So21UIAppearanceContainerP", "data2"]
+- ["So21UIAppearanceContainerP", "data3"]
+- ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "modalPresentationStyle"]
+- ["So21UIAppearanceContainerP", "openTabHome"]
+- !private ["So21UIAppearanceContainerP", "perform"]
+- !private ["So21UIAppearanceContainerP", "present"]
+- !private ["So21UIAppearanceContainerP", "print"]
+- ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So18UIContentContainerP", "DispatchQueue"]
+- !private ["So18UIContentContainerP", "GetData"]
+- !private ["So18UIContentContainerP", "TabHomeViewController"]
+- !private ["So18UIContentContainerP", "UIStoryboard"]
+- ["So18UIContentContainerP", ""]
+- ["So18UIContentContainerP", "data"]
+- ["So18UIContentContainerP", "data2"]
+- ["So18UIContentContainerP", "data3"]
+- ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "modalPresentationStyle"]
+- ["So18UIContentContainerP", "openTabHome"]
+- !private ["So18UIContentContainerP", "perform"]
+- !private ["So18UIContentContainerP", "present"]
+- !private ["So18UIContentContainerP", "print"]
+- ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So18UIFocusEnvironmentP", "DispatchQueue"]
+- !private ["So18UIFocusEnvironmentP", "GetData"]
+- !private ["So18UIFocusEnvironmentP", "TabHomeViewController"]
+- !private ["So18UIFocusEnvironmentP", "UIStoryboard"]
+- ["So18UIFocusEnvironmentP", ""]
+- ["So18UIFocusEnvironmentP", "data"]
+- ["So18UIFocusEnvironmentP", "data2"]
+- ["So18UIFocusEnvironmentP", "data3"]
+- ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "modalPresentationStyle"]
+- ["So18UIFocusEnvironmentP", "openTabHome"]
+- !private ["So18UIFocusEnvironmentP", "perform"]
+- !private ["So18UIFocusEnvironmentP", "present"]
+- !private ["So18UIFocusEnvironmentP", "print"]
+- ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So24UIModalPresentationStyleV", "fullScreen"]
+- !private ["So30UIPasteConfigurationSupportingP", "DispatchQueue"]
+- !private ["So30UIPasteConfigurationSupportingP", "GetData"]
+- !private ["So30UIPasteConfigurationSupportingP", "TabHomeViewController"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIStoryboard"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- ["So30UIPasteConfigurationSupportingP", "data"]
+- ["So30UIPasteConfigurationSupportingP", "data2"]
+- ["So30UIPasteConfigurationSupportingP", "data3"]
+- ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "modalPresentationStyle"]
+- ["So30UIPasteConfigurationSupportingP", "openTabHome"]
+- !private ["So30UIPasteConfigurationSupportingP", "perform"]
+- !private ["So30UIPasteConfigurationSupportingP", "present"]
+- !private ["So30UIPasteConfigurationSupportingP", "presentViewController"]
+- !private ["So30UIPasteConfigurationSupportingP", "print"]
+- ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- !private ["So11UIResponderC", "DispatchQueue"]
+- !private ["So11UIResponderC", "GetData"]
+- !private ["So11UIResponderC", "TabHomeViewController"]
+- !private ["So11UIResponderC", "UIStoryboard"]
+- ["So11UIResponderC", ""]
+- ["So11UIResponderC", "data"]
+- ["So11UIResponderC", "data2"]
+- ["So11UIResponderC", "data3"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "modalPresentationStyle"]
+- ["So11UIResponderC", "openTabHome"]
+- !private ["So11UIResponderC", "perform"]
+- !private ["So11UIResponderC", "present"]
+- !private ["So11UIResponderC", "presentViewController"]
+- !private ["So11UIResponderC", "print"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "DispatchQueue"]
+- !private ["So30UIResponderStandardEditActionsP", "GetData"]
+- !private ["So30UIResponderStandardEditActionsP", "TabHomeViewController"]
+- !private ["So30UIResponderStandardEditActionsP", "UIStoryboard"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- ["So30UIResponderStandardEditActionsP", "data"]
+- ["So30UIResponderStandardEditActionsP", "data2"]
+- ["So30UIResponderStandardEditActionsP", "data3"]
+- ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "modalPresentationStyle"]
+- ["So30UIResponderStandardEditActionsP", "openTabHome"]
+- !private ["So30UIResponderStandardEditActionsP", "perform"]
+- !private ["So30UIResponderStandardEditActionsP", "present"]
+- !private ["So30UIResponderStandardEditActionsP", "presentViewController"]
+- !private ["So30UIResponderStandardEditActionsP", "print"]
+- ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So16UIStateRestoringP", "DispatchQueue"]
+- !private ["So16UIStateRestoringP", "GetData"]
+- !private ["So16UIStateRestoringP", "TabHomeViewController"]
+- !private ["So16UIStateRestoringP", "UIStoryboard"]
+- ["So16UIStateRestoringP", ""]
+- ["So16UIStateRestoringP", "data"]
+- ["So16UIStateRestoringP", "data2"]
+- ["So16UIStateRestoringP", "data3"]
+- ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "modalPresentationStyle"]
+- ["So16UIStateRestoringP", "openTabHome"]
+- !private ["So16UIStateRestoringP", "perform"]
+- !private ["So16UIStateRestoringP", "present"]
+- !private ["So16UIStateRestoringP", "print"]
+- ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So12UIStoryboardC", "init"]
+- !private ["So12UIStoryboardC", "instantiateViewController"]
+- !private ["So18UITraitEnvironmentP", "DispatchQueue"]
+- !private ["So18UITraitEnvironmentP", "GetData"]
+- !private ["So18UITraitEnvironmentP", "TabHomeViewController"]
+- !private ["So18UITraitEnvironmentP", "UIStoryboard"]
+- ["So18UITraitEnvironmentP", ""]
+- ["So18UITraitEnvironmentP", "data"]
+- ["So18UITraitEnvironmentP", "data2"]
+- ["So18UITraitEnvironmentP", "data3"]
+- ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "modalPresentationStyle"]
+- ["So18UITraitEnvironmentP", "openTabHome"]
+- !private ["So18UITraitEnvironmentP", "perform"]
+- !private ["So18UITraitEnvironmentP", "present"]
+- !private ["So18UITraitEnvironmentP", "print"]
+- ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So23UIUserActivityRestoringP", "DispatchQueue"]
+- !private ["So23UIUserActivityRestoringP", "GetData"]
+- !private ["So23UIUserActivityRestoringP", "TabHomeViewController"]
+- !private ["So23UIUserActivityRestoringP", "UIStoryboard"]
+- ["So23UIUserActivityRestoringP", ""]
+- ["So23UIUserActivityRestoringP", "data"]
+- ["So23UIUserActivityRestoringP", "data2"]
+- ["So23UIUserActivityRestoringP", "data3"]
+- ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "modalPresentationStyle"]
+- ["So23UIUserActivityRestoringP", "openTabHome"]
+- !private ["So23UIUserActivityRestoringP", "perform"]
+- !private ["So23UIUserActivityRestoringP", "present"]
+- !private ["So23UIUserActivityRestoringP", "presentViewController"]
+- !private ["So23UIUserActivityRestoringP", "print"]
+- ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- !private ["So16UIViewControllerC", "DispatchQueue"]
+- !private ["So16UIViewControllerC", "GetData"]
+- !private ["So16UIViewControllerC", "TabHomeViewController"]
+- !private ["So16UIViewControllerC", "UIStoryboard"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "data"]
+- ["So16UIViewControllerC", "data2"]
+- ["So16UIViewControllerC", "data3"]
+- ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "modalPresentationStyle"]
+- ["So16UIViewControllerC", "openTabHome"]
+- !private ["So16UIViewControllerC", "perform"]
+- !private ["So16UIViewControllerC", "present"]
+- !private ["So16UIViewControllerC", "print"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "init"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", ""]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "DispatchQueue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "GetData"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIStoryboard"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "async"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "data"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "data2"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "data3"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "instantiateViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "main"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "modalPresentationStyle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "openTabHome"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "perform"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "present"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "print"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "DispatchQueue"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "GetData"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "UIStoryboard"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "async"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "data"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "data2"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "data3"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "instantiateViewController"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "main"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "modalPresentationStyle"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "openTabHome"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "perform"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "present"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "print"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewDidLoad"]
+depends-nominal:
+- "SK"
+- "s7CVarArgP"
+- "Sl"
+- "SL"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- !private "s26DefaultStringInterpolationV"
+- "So18OS_dispatch_objectC"
+- !private "So17OS_dispatch_queueC"
+- "SQ"
+- "s25ExpressibleByArrayLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s32ExpressibleByStringInterpolationP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "12TestFireBase19FlashViewControllerC"
+- !private "12TestFireBase7GetDataC"
+- "SH"
+- "s25LosslessStringConvertibleP"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "So9OS_objectC"
+- !private "SY"
+- !private "7Combine9SchedulerP"
+- "ST"
+- !private "s27StringInterpolationProtocolP"
+- !private "12TestFireBase21TabHomeViewControllerC"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- "So18UIFocusEnvironmentP"
+- !private "So24UIModalPresentationStyleV"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- !private "So12UIStoryboardC"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So16UIViewControllerC"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreLocation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/MapKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/apple/Desktop/TestFireBase/build/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FirebaseCore-umbrella.h"
+- "/Users/apple/Desktop/TestFireBase/build/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FirebaseDatabase-umbrella.h"
+- "/Users/apple/Desktop/TestFireBase/build/Debug-iphonesimulator/FirebaseInstallations/FirebaseInstallations.framework/Headers/FirebaseInstallations-umbrella.h"
+- "/Users/apple/Desktop/TestFireBase/build/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRMutableData.h"
+- "/Users/apple/Desktop/TestFireBase/build/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRDatabaseReference.h"
+- "/Users/apple/Desktop/TestFireBase/build/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRDataEventType.h"
+- "/Users/apple/Desktop/TestFireBase/build/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FirebaseCore.h"
+- "/Users/apple/Desktop/TestFireBase/build/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRDatabase.h"
+- "/Users/apple/Desktop/TestFireBase/build/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FirebaseDatabase.h"
+- "/Users/apple/Desktop/TestFireBase/Pods/Firebase/CoreOnly/Sources/Firebase.h"
+- "/Users/apple/Desktop/TestFireBase/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics+AppDelegate.h"
+- "/Users/apple/Desktop/TestFireBase/build/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRServerValue.h"
+- "/Users/apple/Desktop/TestFireBase/build/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIRLoggerLevel.h"
+- "/Users/apple/Desktop/TestFireBase/build/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIRVersion.h"
+- "/Users/apple/Desktop/TestFireBase/build/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIRConfiguration.h"
+- "/Users/apple/Desktop/TestFireBase/build/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIRApp.h"
+- "/Users/apple/Desktop/TestFireBase/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics.h"
+- "/Users/apple/Desktop/TestFireBase/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FirebaseAnalytics.h"
+- "/Users/apple/Desktop/TestFireBase/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRParameterNames.h"
+- "/Users/apple/Desktop/TestFireBase/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIREventNames.h"
+- "/Users/apple/Desktop/TestFireBase/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRUserPropertyNames.h"
+- "/Users/apple/Desktop/TestFireBase/build/Debug-iphonesimulator/FirebaseInstallations/FirebaseInstallations.framework/Headers/FIRInstallations.h"
+- "/Users/apple/Desktop/TestFireBase/build/Debug-iphonesimulator/FirebaseInstallations/FirebaseInstallations.framework/Headers/FirebaseInstallations.h"
+- "/Users/apple/Desktop/TestFireBase/build/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIROptions.h"
+- "/Users/apple/Desktop/TestFireBase/build/Debug-iphonesimulator/FirebaseInstallations/FirebaseInstallations.framework/Headers/FIRInstallationsErrors.h"
+- "/Users/apple/Desktop/TestFireBase/build/Debug-iphonesimulator/FirebaseInstallations/FirebaseInstallations.framework/Headers/FIRInstallationsAuthTokenResult.h"
+- "/Users/apple/Desktop/TestFireBase/build/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRTransactionResult.h"
+- "/Users/apple/Desktop/TestFireBase/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics+Consent.h"
+- "/Users/apple/Desktop/TestFireBase/build/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRDataSnapshot.h"
+- "/Users/apple/Desktop/TestFireBase/build/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRDatabaseQuery.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Users/apple/Desktop/TestFireBase/Pods/Firebase/CoreOnly/Sources/module.modulemap"
+- "/Users/apple/Desktop/TestFireBase/build/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Modules/module.modulemap"
+- "/Users/apple/Desktop/TestFireBase/build/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Modules/module.modulemap"
+- "/Users/apple/Desktop/TestFireBase/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Modules/module.modulemap"
+- "/Users/apple/Desktop/TestFireBase/build/Debug-iphonesimulator/FirebaseInstallations/FirebaseInstallations.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "2c62b4dc0649574ec8084c32a26a8ccb"
